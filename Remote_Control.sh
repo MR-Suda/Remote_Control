@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # NETWORK RESEARCH | PROJECT: REMOTE CONTROL
-# Student Name: Sudakov Shimon
+# Student Name: Shimon
 # Program Code: NX201
 # Class Code: 7736/32
-# Lecturer: Regev Erel
+# Lecturer:
 
 # Triggers cleanup if the user hits Ctrl+C or the script ends
 trap cleanup INT TERM
